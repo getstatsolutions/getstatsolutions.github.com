@@ -529,6 +529,10 @@ h1.navbar-brand {
     max-width: 200px;
 }
 
+#about .recent-works a {
+    color: white;
+}
+
 #about .message-body {
     font-size: 13px;
     line-height: 20px;
